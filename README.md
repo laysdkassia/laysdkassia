@@ -11,7 +11,7 @@
   <img align="center" alt="Lays-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lays-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Lays-pic" height="150" style="border-radius:50px;"            
-       src="https://discord.com/channels/1018665879027851304/1018665879027851307/1018666158787924019">
+       src="https://media.discordapp.net/attachments/1018858527227400223/1018858594059431987/image-maker.png?width=586&height=586">
 </div>
   
   ##
@@ -23,6 +23,6 @@
   <a href = "mailto:laysdekassiar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laysdkassia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation]()
+  ![Snake animation](https://github.com/laysdkassia/laysdkassia/blob/output/github-contribution-grid-snake.svg)
  
 </div>
